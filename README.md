@@ -1,6 +1,5 @@
 ### PrinceCEE says Hi there 👋
 I am Chimezie Edeh. I am generally a programming language polyglot, with in-depth knowledge of developing with NodeJs.
-[www.google.com](Google.com)
 
 - 🔭 I am currently learning ReactJs and Data structures and Algorithms
 - 👯 I’m looking to collaborate on any project on distrubted systems, using any language of choice

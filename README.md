@@ -1,8 +1,6 @@
 ### PrinceCEE says Hi there 👋
-I am Chimezie Edeh. I am generally a programming language polyglot, with in-depth knowledge of developing with NodeJs.
 
-- 🔭 I am currently learning Golang and building backend services with Golang
-- 👯 I’m looking to collaborate on any project on distrubted systems, using any language of choice
-- 💬 Ask me about JavaScript and Typescript, feel free to ask about NodeJs
-- 📫 How to reach me: princecee15@gmail.com or https://twitter.com/princecee
+- 🔭 I am currently learning how to build distributed systems in NodeJs
+- 💬 Ask me about JavaScript, Typescript, NodeJs and ReactJs
+- 📫 How to reach me: princecee15@gmail.com/+2348034030414
 - ⚡ Fun fact: I enjoy reading, and I wish I had a nice voice for singing
